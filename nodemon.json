@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_ATLAS_USER":"satish",
+        "MONGO_ATLAS_PW": "satish123",
+        "JWT_KEY":"secret",
+        "PORT":"5050"
+    }
+}
